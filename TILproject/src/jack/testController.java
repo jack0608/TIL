@@ -14,5 +14,7 @@ public class testController {
 		testCode test = new testCode();
 		
 		test.jack();
+		
+		System.out.println("test");
 	}
 }
